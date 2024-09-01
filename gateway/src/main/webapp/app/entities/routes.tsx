@@ -6,10 +6,11 @@ import { ReducersMapObject, combineReducers } from '@reduxjs/toolkit';
 
 import getStore from 'app/config/store';
 
+import { Route } from 'react-router';
 import entitiesReducers from './reducers';
 
 import Category from './category/category';
-import { Route } from 'react-router';
+import Post from './post/post';
 /* jhipster-needle-add-route-import - JHipster will add routes here */
 
 export default () => {
@@ -20,6 +21,7 @@ export default () => {
       <ErrorBoundaryRoutes>
         {/* prettier-ignore */}
         <Route path="category/*" element={<Category />} />
+        <Route path="post/*" element={<Post />} />
         {/* jhipster-needle-add-route-path - JHipster will add routes here */}
       </ErrorBoundaryRoutes>
     </div>
