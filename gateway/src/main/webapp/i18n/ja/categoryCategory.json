@@ -1,0 +1,29 @@
+{
+  "gatewayApp": {
+    "categoryCategory": {
+      "home": {
+        "title": "Categories",
+        "refreshListLabel": "リストの更新",
+        "createLabel": "Category の作成",
+        "createOrEditLabel": "Categoryの作成または編集",
+        "notFound": "Categories が見つかりません。"
+      },
+      "delete": {
+        "question": "Category {{ id }}を削除してもよろしいですか？"
+      },
+      "detail": {
+        "title": "Category"
+      },
+      "id": "ID",
+      "name": "Name",
+      "description": "Description"
+    }
+  },
+  "categoryApp": {
+    "categoryCategory": {
+      "created": "新しい Category がID {{ param }} で作成されました。",
+      "updated": "ID {{ param }} の Category が更新されました。",
+      "deleted": "ID {{ param }} の Category が削除されました。"
+    }
+  }
+}
