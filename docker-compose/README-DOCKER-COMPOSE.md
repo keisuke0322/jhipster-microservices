@@ -16,5 +16,7 @@ Launch all your infrastructure by running: `docker compose up -d`.
 - category's postgresql database
 - gateway (gateway application)
 - gateway's postgresql database
+- post (microservice application)
+- post's postgresql database
 
 ### Additional Services:

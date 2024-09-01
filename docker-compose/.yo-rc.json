@@ -1,10 +1,10 @@
 {
   "generator-jhipster": {
     "adminPassword": "admin",
-    "appsFolders": ["category", "gateway"],
+    "appsFolders": ["category", "gateway", "post"],
     "directoryPath": "../",
     "jhipsterVersion": "8.7.0",
-    "jwtSecretKey": "MjkzMGFjYjRlYzZmMDg3YzE0MmU5YWYwYWI3MDc5YmY1Y2M4YWZiZTUxZTY2NTkwMmY5ZmMxODQyMTIxNTBkYTc4MWU4MTM0Mjc1NGY3YjE5ZTI5MTQzYThiZDI4OTdlY2ZlYg==",
+    "jwtSecretKey": "NmFhMjhhMzM1YmFmNzg1MmViMjVmMmJjNjlhNjQ5MmRlMjI0N2VjMTY0ZWU2ZTlkMDAzMDA5YjliNDQ5YmRkNWFmZDQ4MTAyNzFmZGEzYThlMzUwOTFjNDc2NzFjMzRhNTI1OA==",
     "monitoring": "no",
     "serviceDiscoveryType": "eureka"
   }
