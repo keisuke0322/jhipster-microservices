@@ -1,0 +1,3 @@
+- 参考サイト
+- https://www.youtube.com/watch?v=Y4s6TmfWKkE&t=935s
+- https://www.jhipster.tech/jp/microservices-architecture/
